@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    text-align: center;
+    
+}
+
+@font-face {
+    font-family: IBMPlexSans;
+    src: url('fonts/IBMPlexSansHebrew-Regular.ttf')  format('truetype');
+  }
+
+  
+p {
+color: white;
+font-family: IBMPlexSans, sans-serif;
+}
